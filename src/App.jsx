@@ -4,8 +4,8 @@ function App() {
   return (
     <div className="grid h-svh w-screen place-items-center bg-white overflow-hidden">
       <img
-        src="./images/logo-orange-cat-eyes-01.png"
-        alt="green cat logo"
+        src="./images/logo-green-cat-eyes-01.png"
+        alt="orange cat logo"
         className="max-h-72 sm:max-h-48 md:max-h-72 lg:max-h-150 w-auto object-contain"
       />
     </div>
