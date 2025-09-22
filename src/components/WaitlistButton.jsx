@@ -17,7 +17,7 @@ export default function WaitlistButton() {
   type="button"
   data-tally-open="woJJ9N"
   data-tally-auto-close="3000"
-  className="rounded-lg px-4 py-1.5 text-sm md:px-6 md:py-2 md:text-base text-white text-shadow-sm tracking-wide transition hover:bg-green-700 bg-orange-400"
+  className="rounded-lg px-4 py-1.5 text-sm md:px-6 md:py-2 md:text-base text-white text-shadow-sm tracking-wide transition hover:bg-green-700 bg-orange-400 active:scale-95"
 >
   Join the Waitlist
 </button>
