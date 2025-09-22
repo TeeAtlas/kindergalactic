@@ -4,6 +4,11 @@ html, body {
   overscroll-behavior-x: none;
 }
 
+body {
+  background: url("/images/background.jpg");
+  background-size: 512px;
+}
+
 @layer base {
   button, [role="button"] {
     cursor: pointer;
