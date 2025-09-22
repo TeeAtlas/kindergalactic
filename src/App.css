@@ -3,3 +3,9 @@
 html, body {
   overscroll-behavior-x: none;
 }
+
+@layer base {
+  button, [role="button"] {
+    cursor: pointer;
+  }
+}
