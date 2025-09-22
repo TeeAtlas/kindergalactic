@@ -7,7 +7,7 @@ export default function Logo(props) {
     if (!document.getElementById(id)) {
       const script = document.createElement("script");
       script.id = id;
-      script.src = "./js/logo.min.js";
+      script.src = "/js/logo.min.js";
       document.body.appendChild(script);
     }
   }, []);
