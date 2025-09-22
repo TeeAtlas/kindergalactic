@@ -2,10 +2,10 @@
   <title>Kindergalactic green cat logo</title>
   <defs>
     <mask id="eye-mask-left">
-      <ellipse class="eye-mask eye-mask-left" cx="317.9" cy="644.5" rx="115.7" ry="109.9" fill="white"></ellipse>
+      <ellipse class="eye-mask eye-mask-left" cx="70.65" cy="125.75" rx="21.35" ry="20.25" fill="white"></ellipse>
     </mask>
     <mask id="eye-mask-right">
-      <ellipse class="eye-mask eye-mask-right" cx="712.7" cy="644.5" rx="115.7" ry="109.9" fill="white"></ellipse>
+      <ellipse class="eye-mask eye-mask-right" cx="143.935" cy="125.75" rx="21.35" ry="20.25" fill="white"></ellipse>
     </mask>
   </defs>
   <path d="M14,211.5L14,191C14,188.3 15.4,186.9 18,186.9L37,186.9C40.2,186.9 41.4,188.9 40,191.7L35.7,199.8L41.7,210.6C43.2,213.4 42,215.5 38.7,215.5L18.2,215.5C15.5,215.5 14.1,214 14.1,211.4L14,211.5ZM27.6,206.9C27.6,204.9 26,203.4 23.9,203.4C21.8,203.4 20.3,204.9 20.3,206.9C20.3,208.9 21.9,210.3 23.9,210.3C25.9,210.3 27.6,208.9 27.6,206.9Z" style="fill:rgb(238,94,162);fill-rule:nonzero;"/>
