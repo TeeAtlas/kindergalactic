@@ -12,7 +12,7 @@ export default function Hero() {
       />
       <div className="mt-1 mb- flex flex-col items-center gap-3">
      <p className="max-w-[100%] text-center text-gray-700 text-sm md:text-base leading-snug">
-  Streetwear for kids (and parents)
+  Kidswear for kids (and grownups)
 </p>
 <WaitlistButton />
 </div>
