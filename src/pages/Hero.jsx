@@ -1,5 +1,5 @@
 import React from "react"
-import Logo from "../assets/kindergalactic-logo.svg?react"
+import Logo from "../components/Logo"
 import WaitlistButton from "../components/WaitlistButton"
 
 export default function Hero() {
