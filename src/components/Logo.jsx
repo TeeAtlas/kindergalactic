@@ -11,5 +11,5 @@ export default function Logo(props) {
       document.body.appendChild(script);
     }
   }, []);
-  return <LogoSvg className={props.className} />
+  return <LogoSvg id={props.id} className={props.className} />
 }
