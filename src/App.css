@@ -8,3 +8,9 @@ body {
   background: url("/images/background.jpg");
   background-size: 512px;
 }
+
+@layer base {
+  button, [role="button"] {
+    cursor: pointer;
+  }
+}
